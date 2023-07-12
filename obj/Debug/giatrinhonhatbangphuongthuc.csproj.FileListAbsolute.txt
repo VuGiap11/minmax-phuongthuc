@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\giatrinhonhatbangphuongthuc\bin\Debug\giatrinhonhatbangphuongthuc.exe.config
+C:\Users\tuan\Desktop\giatrinhonhatbangphuongthuc\bin\Debug\giatrinhonhatbangphuongthuc.exe
+C:\Users\tuan\Desktop\giatrinhonhatbangphuongthuc\bin\Debug\giatrinhonhatbangphuongthuc.pdb
+C:\Users\tuan\Desktop\giatrinhonhatbangphuongthuc\obj\Debug\giatrinhonhatbangphuongthuc.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\giatrinhonhatbangphuongthuc\obj\Debug\giatrinhonhatbangphuongthuc.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\giatrinhonhatbangphuongthuc\obj\Debug\giatrinhonhatbangphuongthuc.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\giatrinhonhatbangphuongthuc\obj\Debug\giatrinhonhatbangphuongthuc.exe
+C:\Users\tuan\Desktop\giatrinhonhatbangphuongthuc\obj\Debug\giatrinhonhatbangphuongthuc.pdb
